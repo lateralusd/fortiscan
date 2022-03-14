@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/lateralusd/fortiscan/scan"
 	"io/ioutil"
 	"log"
-	"./scan"
 )
 
 func init() {
